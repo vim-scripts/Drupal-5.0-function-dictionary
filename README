@@ -1,0 +1,3 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1675
+
+This is just a dictionary for Drupal developers, to make their life a bit easier. If you add it to the dictionary list in vim, you can use the Ctrl-X Ctrl-K completition in INSERT mode.
